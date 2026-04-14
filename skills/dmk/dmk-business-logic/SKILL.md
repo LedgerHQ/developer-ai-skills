@@ -1,10 +1,6 @@
 ---
 name: dmk-business-logic
-description: >-
-  Explain the design rationale and domain concepts behind the Ledger Device
-  Management Kit (DMK) API, including Clear Signing, Secure Channel, BOLOS,
-  Device Actions vs Commands, sessions, transports, derivation paths, and
-  Genuine Check. Use when a developer asks "what is X?" about a DMK concept, "why does X work this way?" about an API design decision, or "what's the difference between X and Y?" for DMK components.
+description: "Explain the design rationale and domain concepts behind the Ledger Device Management Kit (DMK) API, including Clear Signing, Secure Channel, BOLOS, Device Actions vs Commands, sessions, transports, derivation paths, and Genuine Check. Use when a developer asks 'what is X?' about a DMK concept, 'why does X work this way?' about an API design decision, or 'what's the difference between X and Y?' for DMK components."
 ---
 
 # DMK Business Logic & Concepts

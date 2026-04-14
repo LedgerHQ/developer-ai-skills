@@ -1,11 +1,6 @@
 ---
 name: dmk-intent-vocabulary
-description: >-
-  Map developer intent and natural language to the correct Ledger Device
-  Management Kit (DMK) components, operations, and API methods. Use when a
-  developer's request is phrased informally, incompletely, or in terms of
-  outcomes rather than API methods, when the intent is ambiguous and needs
-  mapping to a specific DMK component or operation, or when a developer asks "how do I...", "what's the difference between...", or describes a symptom rather than an API.
+description: "Map developer intent and natural language to the correct Ledger Device Management Kit (DMK) components, operations, and API methods. Use when a developer's request is phrased informally, incompletely, or in terms of outcomes rather than API methods, when the intent is ambiguous and needs mapping to a specific DMK component or operation, or when a developer asks 'how do I...', 'what's the difference between...', or describes a symptom rather than an API."
 ---
 
 # DMK Intent Vocabulary
